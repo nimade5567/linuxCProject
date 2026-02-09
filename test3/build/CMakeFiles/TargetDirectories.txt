@@ -1,0 +1,3 @@
+/home/jinyuhang/Desktop/linuxCProject/test3/build/CMakeFiles/test3.dir
+/home/jinyuhang/Desktop/linuxCProject/test3/build/CMakeFiles/edit_cache.dir
+/home/jinyuhang/Desktop/linuxCProject/test3/build/CMakeFiles/rebuild_cache.dir
