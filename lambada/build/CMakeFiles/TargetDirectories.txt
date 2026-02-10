@@ -1,0 +1,3 @@
+/home/jinyuhang/Desktop/linuxCProject/lambada/build/CMakeFiles/lambada.dir
+/home/jinyuhang/Desktop/linuxCProject/lambada/build/CMakeFiles/edit_cache.dir
+/home/jinyuhang/Desktop/linuxCProject/lambada/build/CMakeFiles/rebuild_cache.dir
