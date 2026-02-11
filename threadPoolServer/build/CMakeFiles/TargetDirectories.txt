@@ -1,0 +1,3 @@
+/home/jinyuhang/Desktop/linuxCProject/threadPoolServer/build/CMakeFiles/Server.dir
+/home/jinyuhang/Desktop/linuxCProject/threadPoolServer/build/CMakeFiles/edit_cache.dir
+/home/jinyuhang/Desktop/linuxCProject/threadPoolServer/build/CMakeFiles/rebuild_cache.dir
