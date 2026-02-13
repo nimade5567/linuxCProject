@@ -1,0 +1,3 @@
+/home/jinyuhang/Desktop/linuxCProject/logTcp/build/CMakeFiles/logTcp.dir
+/home/jinyuhang/Desktop/linuxCProject/logTcp/build/CMakeFiles/edit_cache.dir
+/home/jinyuhang/Desktop/linuxCProject/logTcp/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/logTcp.dir/main.cpp.o CMakeFiles/logTcp.dir/src/log.cpp.o CMakeFiles/logTcp.dir/src/tcpServer.cpp.o -o logTcp 

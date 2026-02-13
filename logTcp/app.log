@@ -1,0 +1,37 @@
+data: 2026-02-13 18:59:50 | level: ERROR | error code: 0 | message: Success | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/main.cpp | line: 4 | FILE OPEN
+data: 2026-02-13 19:17:20 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/main.cpp | line: 29 | server listening on port 8080...
+data: 2026-02-13 19:17:38 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/main.cpp | line: 39 | client connected
+data: 2026-02-13 19:17:38 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/main.cpp | line: 50 | hello world
+data: 2026-02-13 19:17:38 | level: WARN | error code: 0 | message: Success | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/main.cpp | line: 46 | client disconnected or read error
+data: 2026-02-13 19:17:38 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/main.cpp | line: 58 | server exited
+data: 2026-02-13 19:17:53 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/main.cpp | line: 29 | server listening on port 8080...
+data: 2026-02-13 19:18:38 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/main.cpp | line: 39 | client connected
+data: 2026-02-13 19:18:38 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/main.cpp | line: 50 | hello world
+data: 2026-02-13 19:18:38 | level: WARN | error code: 0 | message: Success | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/main.cpp | line: 46 | client disconnected or read error
+data: 2026-02-13 19:18:38 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/main.cpp | line: 58 | server exited
+data: 2026-02-13 19:24:02 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/main.cpp | line: 29 | server listening on port 8080...
+data: 2026-02-13 19:24:16 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/main.cpp | line: 39 | client connected
+data: 2026-02-13 19:24:20 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/main.cpp | line: 50 | nihao
+data: 2026-02-13 19:24:32 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/main.cpp | line: 50 | test
+data: 2026-02-13 19:24:51 | level: WARN | error code: 104 | message: Connection reset by peer | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/main.cpp | line: 46 | client disconnected or read error
+data: 2026-02-13 19:24:51 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/main.cpp | line: 58 | server exited
+data: 2026-02-13 19:54:06 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/src/tcpServer.cpp | line: 20 | server listening on port 8080...
+data: 2026-02-13 19:54:49 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/src/tcpServer.cpp | line: 29 | client connected
+data: 2026-02-13 19:59:36 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/src/tcpServer.cpp | line: 20 | server listening on port 8080...
+data: 2026-02-13 19:59:51 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/src/tcpServer.cpp | line: 29 | client connected
+data: 2026-02-13 20:00:14 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/src/tcpServer.cpp | line: 38 | hello
+data: 2026-02-13 20:00:49 | level: WARN | error code: 0 | message: Success | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/src/tcpServer.cpp | line: 34 | client disconnected or read error
+data: 2026-02-13 20:02:05 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/src/tcpServer.cpp | line: 20 | server listening on port 8080...
+data: 2026-02-13 20:02:08 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/src/tcpServer.cpp | line: 29 | client connected
+data: 2026-02-13 20:02:16 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/src/tcpServer.cpp | line: 38 | hello
+data: 2026-02-13 20:02:24 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/src/tcpServer.cpp | line: 38 | nihaoa
+data: 2026-02-13 20:02:28 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/src/tcpServer.cpp | line: 38 | woshinidie
+data: 2026-02-13 20:02:31 | level: WARN | error code: 0 | message: Success | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/src/tcpServer.cpp | line: 34 | client disconnected or read error
+data: 2026-02-13 20:02:31 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/src/tcpServer.cpp | line: 42 | server exited
+data: 2026-02-13 20:16:39 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/src/tcpServer.cpp | line: 29 | server listening on port 8080...
+data: 2026-02-13 20:16:47 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/src/tcpServer.cpp | line: 38 | client connected
+data: 2026-02-13 20:16:51 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/src/tcpServer.cpp | line: 51 | nihao
+data: 2026-02-13 20:17:03 | level: WARN | error code: 0 | message: Success | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/src/tcpServer.cpp | line: 47 | client disconnected or read error
+data: 2026-02-13 20:17:03 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/src/tcpServer.cpp | line: 55 | server exited
+data: 2026-02-13 20:19:02 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/src/tcpServer.cpp | line: 29 | server listening on port 8080...
+data: 2026-02-13 20:19:10 | level: INFO | file: /home/jinyuhang/Desktop/linuxCProject/logTcp/src/tcpServer.cpp | line: 38 | client connected

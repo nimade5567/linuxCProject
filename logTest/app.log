@@ -1,0 +1,2 @@
+data: 2026-02-13 13:21:30 | level: INFO | file: main.cpp | line: 69 | Fopen Failed!
+data: 2026-02-13 13:27:45 | level: WARN | error code: 2 | message: No such file or directory | file: main.cpp | line: 69 | Fopen Failed!
